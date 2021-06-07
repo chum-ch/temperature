@@ -37,7 +37,7 @@ input {
 }
 input::placeholder {
     color: #fff;
-    font-family: cursive;
+    font-family: sans-serif;
 }
 button {
     width: 90px;
